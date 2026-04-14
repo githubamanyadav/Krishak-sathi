@@ -1,0 +1,7 @@
+*.js linguist-detectable=true
+*.js linguist-language=JavaScript
+node_modules/* linguist-vendored=true
+package-lock.json linguist-generated=true
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.md linguist-detectable=false
